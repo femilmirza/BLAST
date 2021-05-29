@@ -1,5 +1,5 @@
 # BLAST
-Official Discord bot of DISSOLVE server
+#Official Discord bot of DISSOLVE server
 
 import discord
 import requests
